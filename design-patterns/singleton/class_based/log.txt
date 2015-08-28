@@ -1,0 +1,3 @@
+Info: info log
+Warning: warning log
+Error: error log
